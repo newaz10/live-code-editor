@@ -6,5 +6,5 @@ function run() {
   
     output.contentDocument.body.innerHTML = htmlCode + "<style>" + cssCode + "</style>";
     output.contentWindow.eval(jsCode);
-  }
+}
   
