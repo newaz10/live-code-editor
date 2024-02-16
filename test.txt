@@ -1,0 +1,11 @@
+<button onclick="c(this)">Click Here</button>
+
+button {
+    color: #fff;
+    padding: 0.5rem;
+    background: rgb(98, 98, 228);
+}
+
+function c(x) {
+    x.style.background = "red";
+}
