@@ -1,6 +1,6 @@
 # Live Code Editor
 
-This is a simple live code editor web application that allows users to write HTML, CSS, and JavaScript code in real-time and see the output instantly in an embedded iframe. It's a useful tool for quickly prototyping or testing small code snippets without the need for setting up a separate development environment.
+This is a simple live code editor web application that allows users to write `HTML`, `CSS`, and `JavaScript` code in real-time and see the output instantly in an embedded iframe. It's a useful tool for quickly prototyping or testing small code snippets without the need for setting up a separate development environment.
 
 ## Features
  - Supports live editing of HTML, CSS, and JavaScript code.
